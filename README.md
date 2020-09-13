@@ -17,3 +17,10 @@ Refer to our Meetup page: https://www.meetup.com/Kalispell-Software-Crafters/
 - [ ] Add Initial Basic Styles
   - [ ] Center content
   - [ ] Add blue background color (#00a2e8) and white text
+
+## Deployment
+
+We host our site on GitHub Pages and use the GitHub Pages Deploy Action to deploy the site. Once we complete a merge from develop to the production branch the site will be deployed automatically.
+
+- GitHub Pages: https://pages.github.com/
+- GitHub Pages Deploy Action: https://github.com/marketplace/actions/deploy-to-github-pages
